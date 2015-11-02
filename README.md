@@ -1,2 +1,2 @@
 # ai-prototype
-A artificial inteligencence 
+An artificial inteligence system that learns what you teach it. 
